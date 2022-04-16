@@ -225,7 +225,7 @@ a{
     .barra{
         display: inline-flex; 
         margin: 10px;
-        padding-left: 5%;
+        padding-left: 14%;
     }
     .box{
         border-bottom: 1px solid #dbdbdb;
